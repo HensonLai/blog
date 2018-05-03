@@ -1,4 +1,4 @@
-## <p align="center">Gratitude is the best attitude</p>
+<h2 align="center">Gratitude is the best attitude</h2>
 Gratitude and giving thanks is really one of the most powerful things you can practise every day. if you are committed to achieveing anythings in life.
 
 如果你试图在生命中的任何事上有所成，那么报以感恩之心并善于表达谢意就是你可以进行的最有效的日修。
