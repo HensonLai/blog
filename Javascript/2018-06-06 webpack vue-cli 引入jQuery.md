@@ -50,3 +50,14 @@ import 'admin-lte'
 
 
 ```
+
+## 3、
+main.js 引入文件 
+
+``` js
+import './lib/css'
+import './lib/script'
+
+……
+
+```
