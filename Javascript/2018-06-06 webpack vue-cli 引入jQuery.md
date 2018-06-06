@@ -25,3 +25,28 @@ const webpack = require('webpack')
         }]
       }
 ```
+
+## 2、
+在src目录下添加lib文件夹，并分别建立css.js和script.js
+``` js
+    src
+    |--lib
+    |--|--css.js
+    |--|--script.js
+```
+``` js
+//css.js
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'admin-lte/dist/css/AdminLTE.min.css'
+import 'admin-lte/dist/css/skins/_all-skins.min.css'
+import 'font-awesome/css/font-awesome.min.css'
+```
+
+``` js
+// script.js
+
+import 'bootstrap'
+import 'admin-lte'
+
+
+```
